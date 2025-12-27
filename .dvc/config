@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = myremotenew
 ['remote "myremote"']
+    url = ../S3
+['remote "myremotenew"']
     url = ../S3
